@@ -33,37 +33,37 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "Yucheol’s CV",
     "section": "",
-    "text": "Computer Science Major, BYUI Student.\n\nldsycson@byui.edu | My Github Repos\n\n\n\nStanding on the shoulders of giants\n\n\nSoftware Engineering, Machine Learning in multi-modal AI\n\n\n\nMulti modal AI, AI with brain organoid, AGI.\n\n\n\n\n2020-now Brigham Young University - Idaho\n\n\n\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Computer Science Major, BYUI Student.\n\nldsycson@byui.edu | My Github Repos\n\n\n\nStanding on the shoulders of giants\n\n\nSoftware Engineering, Machine Learning in multi-modal AI\n\n\n\nMulti modal AI, AI with brain organoid, AGI.\n\n\n\n\n2020-now Brigham Young University - Idaho\n\n\n\nYBM COS Pro 1st level - Python\n\n\n\n\n\n\nKR-JP_converter - IME core for converting Hangul into the corresponding phonetic Kana or Kanji\nlds-multi-language-support - Userscript run by the chrome extension: Tampermonkey. This sciprt support multi-language bible in lds website at once\nMore\n\n\n\n\n2022-2024 C4I Operator of Republic of Korea Army, Korea"
   },
   {
     "objectID": "resume.html#currently",
     "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
+    "title": "Yucheol’s CV",
     "section": "",
     "text": "Standing on the shoulders of giants\n\n\nSoftware Engineering, Machine Learning in multi-modal AI\n\n\n\nMulti modal AI, AI with brain organoid, AGI."
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
+    "title": "Yucheol’s CV",
     "section": "",
     "text": "2020-now Brigham Young University - Idaho"
   },
   {
     "objectID": "resume.html#publications",
     "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
+    "title": "Yucheol’s CV",
     "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
+    "text": "KR-JP_converter - IME core for converting Hangul into the corresponding phonetic Kana or Kanji\nlds-multi-language-support - Userscript run by the chrome extension: Tampermonkey. This sciprt support multi-language bible in lds website at once\nMore"
   },
   {
     "objectID": "resume.html#occupation",
     "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
+    "title": "Yucheol’s CV",
     "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "2022-2024 C4I Operator of Republic of Korea Army, Korea"
   },
   {
     "objectID": "Machine_Learning/project3.html",
@@ -295,7 +295,7 @@
     "href": "index.html",
     "title": "about me",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "My Resume MarkDown Basics"
   },
   {
     "objectID": "index.html#title-2-header",
@@ -356,5 +356,19 @@
       "Story Telling",
       "Project 3"
     ]
+  },
+  {
+    "objectID": "resume.html#certificate",
+    "href": "resume.html#certificate",
+    "title": "Yucheol’s CV",
+    "section": "",
+    "text": "YBM COS Pro 1st level - Python"
+  },
+  {
+    "objectID": "index.html#goto-reseme",
+    "href": "index.html#goto-reseme",
+    "title": "about me",
+    "section": "",
+    "text": "My Resume MarkDown Basics"
   }
 ]
